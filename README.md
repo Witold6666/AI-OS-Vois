@@ -1,2 +1,2 @@
 # AI-OS-Vois
-AI OS Vois to oprogramowanie EEG BCI i sterowanie głosem. 
+AI OS Vois to oprogramowanie EEG BCI EKG i sterowanie głosem. 
